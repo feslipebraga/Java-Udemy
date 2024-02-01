@@ -9,6 +9,7 @@ public class NumeroPrimo {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.print("Digite um número: ");
+		@SuppressWarnings("unused")
 		int numero = sc.nextInt();
 		
 		// nao consegui :c

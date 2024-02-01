@@ -1,6 +1,7 @@
 package fundamentos.operadores;
 
 public class Logicos {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		/* boolean condicao1 = true;

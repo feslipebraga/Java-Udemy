@@ -2,6 +2,7 @@ package fundamentos;
 
 public class Wrapper {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		// byte

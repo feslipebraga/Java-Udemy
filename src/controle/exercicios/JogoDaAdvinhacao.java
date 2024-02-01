@@ -9,7 +9,7 @@ public class JogoDaAdvinhacao {
 		Random random = new Random();
 		int numeroAleatorio = random.nextInt(101);
 		
-		int tentativas = 10;
+		int tentativas = 7;
 		int contador = 0;
 		
 		Scanner sc = new Scanner(System.in);
